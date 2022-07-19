@@ -8,7 +8,7 @@ export const Input = ({ ...rest }: IInputProps) => {
       h={14}
       size="md"
       borderWidth={0}
-      fontSize="mb"
+      fontSize="md"
       fontFamily="body"
       color="white"
       placeholderTextColor="gray.300"
